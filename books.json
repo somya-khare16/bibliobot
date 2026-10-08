@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Sophie's World",
+    "category": "Philosophy",
+    "price": 15.94,
+    "rating": 5
+  },
+  {
+    "title": "The Death of Humanity: and the Case for Life",
+    "category": "Philosophy",
+    "price": 58.11,
+    "rating": 4
+  },
+  {
+    "title": "The Stranger",
+    "category": "Philosophy",
+    "price": 17.44,
+    "rating": 4
+  },
+  {
+    "title": "Proofs of God: Classical Arguments from Tertullian to Barth",
+    "category": "Philosophy",
+    "price": 54.21,
+    "rating": 1
+  },
+  {
+    "title": "Kierkegaard: A Christian Missionary to Christians",
+    "category": "Philosophy",
+    "price": 47.13,
+    "rating": 1
+  },
+  {
+    "title": "At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+    "category": "Philosophy",
+    "price": 29.93,
+    "rating": 5
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "category": "Philosophy",
+    "price": 20.75,
+    "rating": 1
+  },
+  {
+    "title": "Run, Spot, Run: The Ethics of Keeping Pets",
+    "category": "Philosophy",
+    "price": 20.02,
+    "rating": 1
+  },
+  {
+    "title": "The Nicomachean Ethics",
+    "category": "Philosophy",
+    "price": 36.34,
+    "rating": 1
+  },
+  {
+    "title": "Meditations",
+    "category": "Philosophy",
+    "price": 25.89,
+    "rating": 2
+  },
+  {
+    "title": "Beyond Good and Evil",
+    "category": "Philosophy",
+    "price": 43.38,
+    "rating": 1
+  },
+  {
+    "title": "Wall and Piece",
+    "category": "Art",
+    "price": 44.18,
+    "rating": 4
+  },
+  {
+    "title": "Feathers: Displays of Brilliant Plumage",
+    "category": "Art",
+    "price": 49.05,
+    "rating": 3
+  },
+  {
+    "title": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+    "category": "Art",
+    "price": 48.63,
+    "rating": 4
+  },
+  {
+    "title": "The New Drawing on the Right Side of the Brain",
+    "category": "Art",
+    "price": 43.02,
+    "rating": 3
+  },
+  {
+    "title": "History of Beauty",
+    "category": "Art",
+    "price": 10.29,
+    "rating": 4
+  },
+  {
+    "title": "The Story of Art",
+    "category": "Art",
+    "price": 41.14,
+    "rating": 4
+  },
+  {
+    "title": "The Art Book",
+    "category": "Art",
+    "price": 32.34,
+    "rating": 2
+  },
+  {
+    "title": "Ways of Seeing",
+    "category": "Art",
+    "price": 39.51,
+    "rating": 5
+  },
+  {
+    "title": "The Lucifer Effect: Understanding How Good People Turn Evil",
+    "category": "Psychology",
+    "price": 10.4,
+    "rating": 1
+  },
+  {
+    "title": "The Golden Condom: And Other Essays on Love Lost and Found",
+    "category": "Psychology",
+    "price": 39.43,
+    "rating": 1
+  },
+  {
+    "title": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+    "category": "Psychology",
+    "price": 56.27,
+    "rating": 3
+  },
+  {
+    "title": "An Unquiet Mind: A Memoir of Moods and Madness",
+    "category": "Psychology",
+    "price": 21.3,
+    "rating": 3
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "category": "Psychology",
+    "price": 21.14,
+    "rating": 1
+  },
+  {
+    "title": "Civilization and Its Discontents",
+    "category": "Psychology",
+    "price": 59.95,
+    "rating": 2
+  },
+  {
+    "title": "8 Keys to Mental Health Through Exercise",
+    "category": "Psychology",
+    "price": 31.04,
+    "rating": 1
+  },
+  {
+    "title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+    "category": "Self Help",
+    "price": 46.35,
+    "rating": 1
+  },
+  {
+    "title": "How to Be Miserable: 40 Strategies You Already Use",
+    "category": "Self Help",
+    "price": 46.03,
+    "rating": 1
+  },
+  {
+    "title": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+    "category": "Self Help",
+    "price": 52.15,
+    "rating": 3
+  },
+  {
+    "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "category": "Self Help",
+    "price": 12.08,
+    "rating": 3
+  },
+  {
+    "title": "How to Stop Worrying and Start Living",
+    "category": "Self Help",
+    "price": 46.49,
+    "rating": 5
+  }
+]
